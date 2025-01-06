@@ -1,6 +1,10 @@
-# Hi there, I'm Vijay Singh Rathod! 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate software developer who loves building intuitive and user-friendly web applications. Here's a bit about me:
+# Hi there, I'm Vijay Singh Rathod! 👋  
+
+Welcome to my GitHub profile! I'm a passionate software developer who loves building intuitive and user-friendly web applications.
+
+</div>
 
 ## 🚀 About Me
 - 🌱 I’m currently learning advanced web development and exploring AI integration in web applications.
@@ -29,9 +33,6 @@ SaaS for chatbot integration with FAQs, training, and easy deployment via copy-p
 
 ### [AnswerSnap](https://github.com/vijay2668/answersnap)
 Screenshot questions, get instant AI answers, and simplify your studies effortlessly!
-
-## 📈 Contribution Graph
-![Vijay's contribution graph](https://activity-graph.herokuapp.com/graph?username=vijay2668&theme=react-dark)
 
 ## 📫 Contact Me
 Feel free to reach out if you want to collaborate on projects or just say hi!
