@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Vijay Singh Rathod! 👋
 
-<!--
-**vijay2668/vijay2668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer who loves building intuitive and user-friendly web applications. Here's a bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning advanced web development and exploring AI integration in web applications.
+- 👯 I’m looking to collaborate on open-source projects and SaaS applications.
+- 💬 Ask me about JavaScript, React, Node.js, and sentiment analysis.
+- 📫 How to reach me: [Email](mailto:vijay.rathod2668@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vijay2668)
+- ⚡ Fun fact: I enjoy creating faceless YouTube content, solving puzzles, and playing chess in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+- **Languages:** JavaScript, TypeScript, Python, HTML, CSS
+- **Frameworks/Libraries:** React, Next.js, Node.js, Tailwind CSS
+- **Databases:** MongoDB, Firebase
+- **Other Tools:** Git, Railway, Lemon Squeezy
+
+## 🏆 GitHub Stats
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay2668&show_icons=true&theme=radical)
+
+## 🔧 Top Projects
+Here are some of my favorite projects:
+
+### [Comment.ai](https://github.com/vijay2668/comment-ai)
+A SaaS app for YouTube comment sentiment analysis and management. Offers advanced features like bulk replies, user hiding, and aspect tagging using AI.
+
+### [DocMate](https://github.com/vijay2668/docmate)
+SaaS for chatbot integration with FAQs, training, and easy deployment via copy-paste.
+
+### [AnswerSnap](https://github.com/vijay2668/answersnap)
+Screenshot questions, get instant AI answers, and simplify your studies effortlessly!
+
+## 📈 Contribution Graph
+![Vijay's contribution graph](https://activity-graph.herokuapp.com/graph?username=vijay2668&theme=react-dark)
+
+## 📫 Contact Me
+Feel free to reach out if you want to collaborate on projects or just say hi!
+
+- **Email:** [vijay.rathod2668@gmail.com](mailto:vijay.rathod2668@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/vijay-singh-rathod](https://www.linkedin.com/in/vijay2668)  
+- **GitHub:** [github.com/vijay2668](https://github.com/vijay2668)  
+
+Thanks for visiting my profile! Have a great day! 😊
