@@ -38,7 +38,7 @@ SaaS for chatbot integration with FAQs, training, and easy deployment via copy-p
 Feel free to reach out if you want to collaborate on projects or just say hi!
 
 - **Email:** [vijay.rathod2668@gmail.com](mailto:vijay.rathod2668@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/vijay-singh-rathod](https://www.linkedin.com/in/vijay2668)  
+- **LinkedIn:** [linkedin.com/in/vijay2668](https://www.linkedin.com/in/vijay2668)  
 - **GitHub:** [github.com/vijay2668](https://github.com/vijay2668)  
 
 Thanks for visiting my profile! Have a great day! 😊
