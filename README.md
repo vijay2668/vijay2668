@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves buil
 
 ## 🛠️ Languages and Tools
 - **Languages:** JavaScript, TypeScript, Python, HTML, CSS
-- **Frameworks/Libraries:** React, Next.js, Node.js, Tailwind CSS
+- **Frameworks/Libraries:** React, Next.js, Node.js, Tailwind CSS, Express
 - **Databases:** MongoDB, Firebase
-- **Other Tools:** Git, Railway, Lemon Squeezy
+- **Other:** Git, RESTful APIs, WebSockets, OpenAI, Lemon Squeezy
 
 ## 🏆 GitHub Stats
 ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay2668&show_icons=true&theme=radical)
@@ -25,14 +25,14 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves buil
 ## 🔧 Top Projects
 Here are some of my favorite projects:
 
-### [Comment.ai](https://github.com/vijay2668/comment-ai)
-A SaaS app for YouTube comment sentiment analysis and management. Offers advanced features like bulk replies, user hiding, and aspect tagging using AI.
-
-### [DocMate](https://github.com/vijay2668/docmate)
-SaaS for chatbot integration with FAQs, training, and easy deployment via copy-paste.
-
-### [AnswerSnap](https://github.com/vijay2668/answersnap)
+### [AnswerSnap](https://chromewebstore.google.com/detail/answersnap/ojjadfolfaejifdmgodfoldppkjjfldg?hl=en&authuser=0)
 Screenshot questions, get instant AI answers, and simplify your studies effortlessly!
+
+### [Comment.ai](https://comment-ai-beta.vercel.app)
+AI-powered tool for managing YouTube comments with sentiment analysis, grouping, and bulk actions.
+
+### [DocMate](https://docmate.vercel.app)
+SaaS for chatbot integration with FAQs, training, and easy deployment via copy-paste.
 
 ## 📫 Contact Me
 Feel free to reach out if you want to collaborate on projects or just say hi!
